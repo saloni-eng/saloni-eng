@@ -1,0 +1,24 @@
+name: Refresh GitBanner
+
+on:
+  schedule:
+    - cron: "0 6 * * 0" # Every Sunday 6 AM UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yashksaini-coder/GitBanner@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          format: svg
+      - name: Commit and push banner
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update github analytics banner"
+          file_pattern: "*.svg"
