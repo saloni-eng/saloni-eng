@@ -1,20 +1,10 @@
-## Hi there!
+# Hi there, I'm Saloni!!
+
+### 🛠️ Open-Source Contributor & Backend Engineer
 
 [![Saloni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saloni-eng&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saloni-eng&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saloni-eng&theme=radical)](https://git.io/streak-stats)
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=saloni-eng&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-<!--
-**saloni-eng/saloni-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saloni-eng&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saloni-eng&theme=synthwave)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=saloni-eng&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
