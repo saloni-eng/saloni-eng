@@ -10,9 +10,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=saloni-eng&theme=synthwave" width="520" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saloni-eng&theme=radical&no-frame=true&no-bg=true&column=4" />
-</p>
-
 ![GitBanner](gitbanner.svg)
 
