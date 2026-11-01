@@ -3,10 +3,7 @@
 ### 🛠️ Open-Source Contributor & Backend Engineer
 
 <p align="center">
-  <img src="koi/koi.gif" width="256" alt="Git Koi animation" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saloni-eng&show_icons=true&theme=synthwave&hide_border=false&include_all_commits=true" width="520" />
+  <img src="koi/koi.gif" width="256" alt="My koi" />
 </p>
 
 <p align="center">
