@@ -7,9 +7,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saloni-eng&theme=synthwave" width="520" />
-</p>
-
-<p align="center">
   <img src="./gitbanner.svg" alt="GitBanner" />
 </p>
