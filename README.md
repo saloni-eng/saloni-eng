@@ -3,7 +3,7 @@
 ### 🛠️ Open-Source Contributor & Backend Engineer
 
 <p align="center">
-  <img src="koi/koi.gif" width="400" alt="My koi" />
+  <img src="koi/koi.gif?raw=true" width="400" alt="My koi" />
 </p>
 
 <p align="center">
